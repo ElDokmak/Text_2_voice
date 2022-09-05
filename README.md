@@ -1,2 +1,2 @@
 # Text_2_voice
-simple programm that converts text into voice with gender selection
+GUI program that convets text data into voice with gender selection 
